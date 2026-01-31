@@ -1,2 +1,1 @@
-# rdj2
-my new git page for Portfolio
+Welcome to my professional portfolio. I am Pawan Gupta, a Computer Science Engineering student and Frontend Developer. This repository highlights my projects, demonstrating proficiency in creating responsive, user-centric web applications and modern interfaces. I invite you to explore my work and contact me for potential collaborations or professional opportunities.
